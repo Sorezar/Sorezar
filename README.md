@@ -1,3 +1,5 @@
+![banner](https://github.com/Sorezar/Sorezar/blob/main/banner.png)
+
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/allardbenjamininfo/">
@@ -12,9 +14,7 @@
 I'm an AI/ML Engineer but also a Data Scientist
 I have decided to lock in and create usefuls projects around AI
 
-* 🌱 I’m currently learning :
-  * Computer vision
- 
+* 🌱 I’m currently learning : Computer vision
 * ⚡ Fun fact : Benjamin means Fortune's son 
 
 Feel free to explore my work and connect with me !
