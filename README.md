@@ -14,8 +14,9 @@
 I'm an AI/ML Engineer but also a Data Scientist \
 I decided to lock in and create usefuls projects around AI
 
+* 🔭 I’m currently working on Oceania
 * 🌱 I’m currently learning : Computer vision
-* ⚡ Fun fact : Benjamin means Fortune's son 
+* ⚡ Fun fact : Benjamin means Fortune's son
 
 Feel free to explore my work and connect with me !
 
