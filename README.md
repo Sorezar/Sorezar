@@ -14,7 +14,6 @@ I decided to lock in and create usefuls projects around AI
 
 * 🔭 I’m currently working on RootAI
 * 🌱 I’m currently learning : LLM
-* ⚡ Fun fact : Benjamin means Fortune's son
 
 Feel free to explore my work and connect with me !
 
