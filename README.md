@@ -9,9 +9,4 @@
 
 ### 🍀 Hi, Benjamin ALLARD here 🍀
 
-I'm an AI/ML Engineer but also a Data Scientist \
-I decided to lock in and create usefuls projects around AI
-
-* 🔭 I’m currently working on Omara
-
-Feel free to explore my work and connect with me !
+I'm an AI/ML Engineer but also a Data Scientist
